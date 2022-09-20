@@ -14,7 +14,7 @@ app = App(
 
 
 @app.event("app_home_opened")
-def handle_app_mentions(body, logger):
+def handle_home_opened(body, logger):
     logger.info(body)
 
 
