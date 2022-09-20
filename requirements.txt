@@ -1,4 +1,4 @@
 Django==4.1.1
-slack-bolt==1.14.3
 django-environ==0.9.0
 gunicorn==20.1.0
+slack-bolt==1.14.3
